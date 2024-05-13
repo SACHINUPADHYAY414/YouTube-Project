@@ -9,7 +9,7 @@ import LiveTvIcon from '@mui/icons-material/LiveTv';
 // import CheckroomIcon from '@mui/icons-material/Checkroom';
 // import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
-import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
+// import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 // import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
@@ -27,10 +27,10 @@ export const categories = [
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
   { name: 'Sport', icon: <FitnessCenterIcon />, },
-  { name: 'Fashion', icon: <CheckroomIcon />, },
+  // { name: 'Fashion', icon: <CheckroomIcon />, },
   // { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
-  { name: 'Gym', icon: <FitnessCenterIcon />, },
+  // { name: 'Gym', icon: <FitnessCenterIcon />, },
   // { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
