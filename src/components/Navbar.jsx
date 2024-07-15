@@ -13,7 +13,6 @@ const Navbar = () => (
   >
     <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
       <img src={logo} alt="logo" height={45} />
-      <h2>Movies4u</h2>
     </Link>
     <SearchBar />
   </Stack>
