@@ -27,7 +27,7 @@ const SearchBar = () => {
         padding: '0 10px',         
         boxShadow: 'none',         
         width: '100%',         
-        maxWidth: '600px', // Optional max width for the search bar         
+        maxWidth: '300px', // Optional max width for the search bar         
         margin: '0 auto', // Center the search bar horizontally
       }}     
     >       
