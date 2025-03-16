@@ -14,7 +14,7 @@ const Navbar = () => (
       position: 'sticky', 
       background: '#000', 
       top: 0, 
-      justifyContent: 'center' // Center items in the Navbar
+      justifyContent: 'center'
     }}
   >
     <Link to="/" style={{ display: 'flex', alignItems: 'center', marginRight: 'auto' }}>
